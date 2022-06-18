@@ -18,6 +18,7 @@ import * as Speech from "expo-speech";
 import AppLoading from "expo-app-loading";
 import * as Font from "expo-font";
 import firebase from "firebase";
+import {} from "../"
 
 let customFonts = {
   "Bubblegum-Sans": require("../assets/fonts/BubblegumSans-Regular.ttf")
